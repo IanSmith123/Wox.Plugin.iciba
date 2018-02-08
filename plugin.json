@@ -1,0 +1,12 @@
+{
+    "ID":"0b863d3e-73fd-4279-9e61-96151f1d0811",
+    "ActionKeyword":"naive",
+    "Name":"iciba",
+    "Description":"快速中英文互译",
+    "Author":"Les1ie",
+    "Version":"0.1",
+    "Language":"python",
+    "Website":"https://github.com/iansmith123/Wox.Plugin.iciba",
+    "IcoPath":"Images\\ciba.png",
+    "ExecuteFileName":"main.py"
+}
